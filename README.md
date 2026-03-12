@@ -43,13 +43,12 @@ The dashboard was designed to solve key business problems:
 
 | Tool | Purpose |
 |-----|------|
-| Power BI | Dashboard development & visualization |
-| DAX | KPI calculations |
-| MySQL | Data storage / querying |
-| Snowflake | Cloud data warehouse |
-| SharePoint | Data storage and collaboration |
-| Power Query | Data transformation |
-| Excel / CSV | Raw dataset |
+| Power BI | Interactive dashboard and visualization |
+| DAX | KPI calculations and metrics |
+| MySQL | Data storage and SQL queries for inventory data |
+| Snowflake | Cloud data warehouse for analytical queries |
+| SharePoint | Data source for CSV datasets |
+| Power Query | Data transformation and cleaning |
 
 ---
 
@@ -193,16 +192,6 @@ Blinkit-Analytics-Dashboard
 
 ---
 
-# 🧠 Skills Demonstrated
-
-- Business Intelligence Reporting  
-- Data Visualization  
-- KPI Development using **DAX**  
-- Data Modeling  
-- Dashboard Design  
-- Operational Analytics  
-
----
 
 # 💡 Key Insights Generated
 
@@ -215,20 +204,3 @@ The dashboard helps uncover insights such as:
 - Sales trends across time periods
 
 ---
-
-# 📌 Future Improvements
-
-Potential improvements for this project:
-
-- Real-time data pipeline integration  
-- Predictive analytics for demand forecasting  
-- Advanced customer segmentation  
-- Machine learning-based recommendation systems  
-
----
-
-# 👨‍💻 Author
-
-**Personal Data Analytics Project**
-
-If you found this project helpful or interesting, consider **starring the repository ⭐**.
