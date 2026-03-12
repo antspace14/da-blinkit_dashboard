@@ -58,7 +58,7 @@ The Power BI solution consists of **five key analytical dashboards**.
 
 ---
 
-## 📌 Sales Performance Dashboard
+## 📌 Summary Report
 
 Provides a **high-level overview of business performance**.
 
@@ -144,53 +144,40 @@ Provides insights into **which campaigns generate the highest ROI**.
 
 # 🖼️ Dashboard Preview
 
-*(Add screenshots here once you upload them to the repository)*
+### Data Model 1
 
-### Sales Dashboard
-```
-images/sales_dashboard.png
-```
+![Data Model](images/AllTables.png)
 
-### Product Dashboard
-```
-images/product_dashboard.png
-```
+### Data Model 2
 
-### Delivery Dashboard
-```
-images/delivery_dashboard.png
-```
+![Data Model](images/Layout.png)
 
-### Customer Feedback Dashboard
-```
-images/customer_dashboard.png
-```
+### Home Page
 
-### Marketing Dashboard
-```
-images/marketing_dashboard.png
-```
+![Data Model](images/HomePage.png)
 
----
+### Summary Report
 
-# 📂 Project Structure
+![Data Model](images/Summary_Report.png)
 
-```
-Blinkit-Analytics-Dashboard
-│
-├── dataset
-│   └── blinkit_data.csv
-│
-├── dashboard
-│   └── blinkit_dashboard.pbix
-│
-├── images
-│   └── (dashboard screenshots)
-│
-└── README.md
-```
+### Product Performance Report
+
+![Data Model](images/Product_Performance.png)
+
+### Delivery Performance Report
+
+![Data Model](images/Delivery_Performance.png)
+
+### Customer Feedback & Sentiment Analysis Report
+
+![Data Model](images/Sentiment_Analysis.png)
+
+### Marketing Performance Report
+
+![Data Model](images/Marketing_Performance.png)
 
 ---
+
 
 
 # 💡 Key Insights Generated
