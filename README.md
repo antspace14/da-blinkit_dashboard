@@ -3,7 +3,6 @@
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
 ![DAX](https://img.shields.io/badge/Language-DAX-blue)
 ![Data Analytics](https://img.shields.io/badge/Domain-Data%20Analytics-green)
-![Status](https://img.shields.io/badge/Project-Personal-blueviolet)
 
 An interactive **Power BI dashboard** built to analyze operational, sales, delivery, customer, and marketing data for a quick-commerce business model inspired by **Blinkit**.
 
