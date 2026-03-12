@@ -14,7 +14,7 @@ CREATE TABLE `inventory` (
 );
 
 -- Loading the data into inventory table
-LOAD DATA INFILE 'C:/zzTeaching Content/Power BI Content/Power BI Modules/20. Power BI Project 1/Data/DATA_FOR_PROJECT/MysqlDatabase/blinkit_inventory.csv'
+LOAD DATA INFILE '[Enter File Path here]'
 INTO TABLE `inventory`
 FIELDS TERMINATED BY ',' 
 ENCLOSED BY '"' 
