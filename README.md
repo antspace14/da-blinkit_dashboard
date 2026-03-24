@@ -6,7 +6,7 @@
 
 An interactive **Power BI dashboard** built to analyze operational, sales, delivery, customer, and marketing data for a quick-commerce business model inspired by **Blinkit**.
 
-This project demonstrates how **business intelligence and data visualization** can help organizations monitor performance, identify operational inefficiencies, and make **data-driven decisions**.
+This project demonstrates how **business intelligence and data visualization** can help organizations monitor performance, identify operational inefficiencies, and make **data-driven decisions** from multiple data sources like **MySQL**, **CSV**, **Snowflake** & **SharePoint**.
 
 ---
 
@@ -143,17 +143,9 @@ Provides insights into **which campaigns generate the highest ROI**.
 
 # 🖼️ Dashboard Preview
 
-### Data Model 1
+### Data Model 
 
-![Data Model](images/AllTables.png)
-
-### Data Model 2
-
-![Data Model](images/Layout.png)
-
-### Home Page
-
-![Data Model](images/HomePage.png)
+![Data Model](images/Data_Model.png)
 
 ### Summary Report
 
