@@ -14,7 +14,7 @@ CREATE TABLE `inventory` (
 );
 
 -- Loading the data into inventory table
-LOAD DATA INFILE '[Enter File Path here]'
+LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/blinkit_inventory.csv'
 INTO TABLE `inventory`
 FIELDS TERMINATED BY ',' 
 ENCLOSED BY '"' 
@@ -23,3 +23,8 @@ IGNORE 1 ROWS;
 
 -- Checking the rows
 SELECT * FROM `inventory`;
+
+-- For checking if file loading doesn't happen
+SHOW VARIABLES LIKE 'local_infile';
+SET GLOBAL local_infile = 1;
+SHOW VARIABLES LIKE 'secure_file_priv';

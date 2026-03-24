@@ -25,3 +25,4 @@ USE SCHEMA endtoend_project1_schema;
 
 SELECT * FROM blinkit_order_items;
 SELECT* FROM blinkit_orders;
+SELECT* FROM blinkit_marketing_performance;
